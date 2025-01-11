@@ -86,7 +86,7 @@ function App() {
                 <p>
                   Proficient in HTML, CSS, JavaScript, TypeScript, React, and Next.js. Skilled in building responsive and visually appealing web applications.
                 </p>
-                <a href="#" className="flex mt-3 text-green-500 items-center">
+                <a href="https://todo-33cega5m3-kei0710keis-projects.vercel.app/" className="flex mt-3 text-green-500 items-center">
                   もっと見る
                   <svg
                     width="24"
